@@ -1,3 +1,3 @@
 # ANALISIS CODE
 
-- Dalam tahap ini “Templating” pada generating html dengan templating memungkinkan memisahkan logika aplikasi dari views dengan menggabungkan data dari aplikasi ke dalam file template (mirip seperti mako atau Jinja2) untuk menghasilkan halaman HTML dinamis sesuai respon dan request, sehingga alih-alih membangun string HTML statis dalam aplikasi, kita bisa membuat template yang reuse-able yang kemudian di-render oleh view.
+- Dalam tahap ini Templating pada generating html dengan templating memungkinkan memisahkan logika aplikasi dari views dengan menggabungkan data dari aplikasi ke dalam file template (mirip seperti mako atau Jinja2) untuk menghasilkan halaman HTML dinamis sesuai respon dan request, sehingga alih-alih membangun string HTML statis dalam aplikasi, kita bisa membuat template yang reuse-able yang kemudian di-render oleh view.
